@@ -1,0 +1,5 @@
+{
+  "name": "Orean Network Dashboard",
+  "description": "A web application for managing digital mining, tracking progress, viewing transactions, and completing tasks for the Orean Network.",
+  "requestFramePermissions": []
+}
